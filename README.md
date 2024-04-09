@@ -1,5 +1,7 @@
 # INSTRUCTIONS
 
 + Import the EjercicioChatSeguro folder as a java project
-+ Launch 1 server.java
-+ Launch n ClientAppwindow
++ Launch 1 Server
++ Launch x ClienteAppwindow
+
+I had to make this for the last exam 
