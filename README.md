@@ -6,4 +6,4 @@
 
 I had to code this for the "services and proceses programing" final exam. 
 
-I might improve the client front end in the furure.
+I might improve the client appearance end in the furure.
